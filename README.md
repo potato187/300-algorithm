@@ -9,3 +9,5 @@
 ## 4. Best Time To Buy And Sell Stock (Easy)
 
 ## 5. Valid Palindrome (Easy)
+
+## 7. Valid Anagram (Easy)
