@@ -11,3 +11,7 @@
 ## 5. Valid Palindrome (Easy)
 
 ## 7. Valid Anagram (Easy)
+
+## 9. Maximum SubArray (Medium)
+
+## 15. First Bad Value (Easy)
