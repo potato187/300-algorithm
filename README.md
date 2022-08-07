@@ -15,3 +15,5 @@
 ## 9. Maximum SubArray (Medium)
 
 ## 15. First Bad Value (Easy)
+
+## 16. Ransom Note (Easy)
