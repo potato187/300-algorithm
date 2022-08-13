@@ -20,6 +20,8 @@
 
 ## 17 Climbing Stairs
 
-## 27 Roman to integer / Integer to roman
+## 27 Roman to integer / Integer to roman (Ease/Medium)
 
-## 33 Single Number
+## 33 Single Number (Easy)
+
+## 35 Move Zeros (Easy)
