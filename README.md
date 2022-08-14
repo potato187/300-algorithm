@@ -25,3 +25,5 @@
 ## 33 Single Number (Easy)
 
 ## 35 Move Zeros (Easy)
+
+## 38 Palindrome Number (Easy)
