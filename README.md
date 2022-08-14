@@ -26,4 +26,6 @@
 
 ## 35 Move Zeros (Easy)
 
+## 37 Missing Number (Easy)
+
 ## 38 Palindrome Number (Easy)
