@@ -1,4 +1,4 @@
-# Algorithm from leetcode.com
+# Algorithm from Leetcode.com
 
 ## 1. Tow sum (Easy)
 
@@ -18,9 +18,11 @@
 
 ## 16. Ransom Note (Easy)
 
-## 17 Climbing Stairs
+## 17 Climbing Stairs (Easy)
 
-## 27 Roman to integer / Integer to roman (Ease/Medium)
+## Contain Duplicate (Easy)
+
+## 27 Roman to integer / Integer to roman (Easy/Medium)
 
 ## 33 Single Number (Easy)
 
