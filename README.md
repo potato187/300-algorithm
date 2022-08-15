@@ -22,7 +22,11 @@
 
 ## Contain Duplicate (Easy)
 
+## 23 Middle of the Linked List (Easy)
+
 ## 27 Roman to integer / Integer to roman (Easy/Medium)
+
+## 28 Backspace String Compare (Easy)
 
 ## 33 Single Number (Easy)
 
