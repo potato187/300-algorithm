@@ -35,3 +35,5 @@
 ## 37 Missing Number (Easy)
 
 ## 38 Palindrome Number (Easy)
+
+## 42 Squares of a Stored Array (Easy)
