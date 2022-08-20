@@ -10,6 +10,8 @@
 
 ## 5. Valid Palindrome (Easy)
 
+## 6 Invert Binary Tree (Easy)
+
 ## 7. Valid Anagram (Easy)
 
 ## 9. Maximum SubArray (Medium)
